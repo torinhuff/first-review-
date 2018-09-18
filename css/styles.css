@@ -1,0 +1,47 @@
+.jumbotron {
+  text-align: center;
+  font-family: 'Yellowtail', cursive;
+  font-size: 56px;
+  width: 50%;
+  float: left;
+  margin-right: auto;
+  margin-top: 2%;
+
+}
+
+#contact {
+  border: 6px solid black;
+  border-radius: 16px;
+  padding: 4px;
+  display: block;
+  float: right;
+  margin-left: 5%;
+  margin-top: 2%;
+}
+.column {
+  display: block;
+  width: 25%;
+  margin-left: 2%;
+  margin-right: 2%;
+  margin-top: 2%;
+  float: left;
+
+}
+
+#profile {
+  float: right;
+  display: block;
+  border-radius: 16px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2%;
+  width: 25%;
+  height: 25%;
+}
+
+#header {
+  float: left;
+  margin-top: 2%;
+  margin-right: auto;
+  display: block;
+}
