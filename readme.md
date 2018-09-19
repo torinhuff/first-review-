@@ -16,7 +16,7 @@ This is a page displaying all of the projects that we had completed at Epicodus 
 
 ## Support and contact details
 
-_If you have any comments or suggestions please contact Torin Huff at torinhuff@yahoo.com._
+_If you have any comments or suggestions please contact Torin Huff at torinhuff@yahoo.com. You can also check out my page here: <https://torinhuff.github.io/first-review-/>
 
 ## Technologies Used
 
