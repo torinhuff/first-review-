@@ -16,8 +16,9 @@
   padding: 4px;
   display: block;
   float: left;
+  width: 40%;
   margin-left: 7%;
-  margin-top: 2%;
+  margin-top: 5%;
   background-color: white;
 }
 
@@ -45,8 +46,8 @@ h3 {
   display: block;
   border-radius: 16px;
   margin-left: auto;
-  margin-right: auto;
-  margin-top: 2%;
+  margin-right: 5%;
+  margin-top: 5%;
   width: 35%;
   height: 35%;
   float: right;
